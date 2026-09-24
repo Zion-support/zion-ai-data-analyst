@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-data-analyst/
-- 🔗 Related: [Zion AI Data Quality](https://ziontechgroup.com/zion-ai-data-quality/) · [Content ROI Dashboard](https://ziontechgroup.com/content-roi-dashboard/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI Data Quality](https://ziontechgroup.com/zion-ai-data-quality/) · [SQL Query Explainer](https://ziontechgroup.com/sql-query-explainer/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
